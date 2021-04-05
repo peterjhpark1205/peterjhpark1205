@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @peterjhpark1205
-- 👀 I’m interested in Algorithm, Machine Learning, Deep Learning(Especially NLP)
+- 👀 I’m interested in Algorithm, Machine Learning, Deep Learning, NLP
 - 🌱 I’m currently learning Algorithm, Deep Learning
 - 📫 How to reach me: peterjhpark1205@gmail.com
 
